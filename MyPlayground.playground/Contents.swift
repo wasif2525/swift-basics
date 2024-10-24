@@ -59,6 +59,8 @@ print(c)
 var x = "Mac"
 print(x)
 
+var test = "new"
+
 
 
 
