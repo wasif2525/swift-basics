@@ -56,6 +56,9 @@ var b:[Double] = [1.2]
 var c = a == b
 print(c)
 
+var x = "Mac"
+print(x)
+
 
 
 
